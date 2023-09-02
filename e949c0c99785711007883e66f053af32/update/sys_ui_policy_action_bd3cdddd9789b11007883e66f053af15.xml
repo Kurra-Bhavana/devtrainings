@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>u_other</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-02 05:15:28</sys_created_on>
+        <sys_id>bd3cdddd9789b11007883e66f053af15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>u_other</sys_name>
+        <sys_package display_value="NeedIt" source="x_1116652_needit">e949c0c99785711007883e66f053af32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">e949c0c99785711007883e66f053af32</sys_scope>
+        <sys_update_name>sys_ui_policy_action_bd3cdddd9789b11007883e66f053af15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-02 05:15:28</sys_updated_on>
+        <table>x_1116652_needit_needit</table>
+        <ui_policy display_value="NeedIt show or hide Other field">a13b595d9789b11007883e66f053af5c</ui_policy>
+        <visible>true</visible>
+    </sys_ui_policy_action>
+</record_update>
