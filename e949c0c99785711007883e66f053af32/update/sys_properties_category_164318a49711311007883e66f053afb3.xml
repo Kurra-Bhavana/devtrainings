@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name> NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-09-12 02:19:03</sys_created_on>
+        <sys_id>164318a49711311007883e66f053afb3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name> NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_1116652_needit">e949c0c99785711007883e66f053af32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">e949c0c99785711007883e66f053af32</sys_scope>
+        <sys_update_name>sys_properties_category_164318a49711311007883e66f053afb3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-09-12 02:19:03</sys_updated_on>
+        <title><![CDATA[<p><span style="font-family: &#39;times new roman&#39;, times; font-size: 12pt;"><a title="ServiceNow Wipro" href="https://www.bing.com/ck/a?!&amp;&amp;p&#61;b7f8833930284944JmltdHM9MTY5NDM5MDQwMCZpZ3VpZD0wMGU4OTM1ZS1iNDA0LTY2NzQtMTM0Mi04MDFlYjViNjY3NWImaW5zaWQ9NTU3Nw&amp;ptn&#61;3&amp;hsh&#61;3&amp;fclid&#61;00e8935e-b404-6674-1342-801eb5b6675b&amp;u&#61;a1L2ltYWdlcy9zZWFyY2g_cT13aXBybyBpbWFnZSBkb3dubG9hZCZGT1JNPUlRRlJCQSZpZD05Mjg2OUY4MTQxREVEQzZFNTBDNzcxNUU4OTMyNTgwQTFFOEY2MDc3&amp;ntb&#61;1" rel="nofollow">https://www.bing.com/ck/a?!&amp;&amp;p&#61;b7f8833930284944JmltdHM9MTY5NDM5MDQwMCZpZ3VpZD0wMGU4OTM1ZS1iNDA0LTY2NzQtMTM0Mi04MDFlYjViNjY3NWImaW5zaWQ9NTU3Nw&amp;ptn&#61;3&amp;hsh&#61;3&amp;fclid&#61;00e8935e-b404-6674-1342-801eb5b6675b&amp;u&#61;a1L2ltYWdlcy9zZWFyY2g_cT13aXBybyBpbWFnZSBkb3dubG9hZCZGT1JNPUlRRlJCQSZpZD05Mjg2OUY4MTQxREVEQzZFNTBDNzcxNUU4OTMyNTgwQTFFOEY2MDc3&amp;ntb&#61;1</a></span></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=164318a49711311007883e66f053afb3"/>
+</record_update>
