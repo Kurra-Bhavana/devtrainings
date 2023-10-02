@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="INSERT_OR_UPDATE">
+        <canvas_page display_value="PA My API - New Tab">726fc7b69761311007883e66f053af96</canvas_page>
+        <name>My API - New Tab</name>
+        <page display_value="PA My API - New Tab">f66fc7b69761311007883e66f053af95</page>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-10-02 02:00:14</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>f26fc7b69761311007883e66f053af98</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My API - New Tab</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_1116652_needit">e949c0c99785711007883e66f053af32</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">e949c0c99785711007883e66f053af32</sys_scope>
+        <sys_update_name>pa_tabs_f26fc7b69761311007883e66f053af98</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-10-02 02:00:14</sys_updated_on>
+    </pa_tabs>
+</record_update>

@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element audit="true" db_object_id="c8c2508597c5711007883e66f053af95" extends="task" label="NeedIt" max_length="40" name="x_1116652_needit_needit" type="collection">
+        <element attributes="target_field=percent_complete_target,target_threshold_colors=0:color1;33:color2;66:color3;90:color4,target_field=target" label="% complete" max_length="15" name="complete" type="percent_complete"/>
+        <element label="Target" max_length="20" name="target" type="decimal"/>
         <element attributes="edge_encryption_enabled=true" choice="1" label="Customize an Inherited Choice List" max_length="40" name="u_customize_an_inherited_choicelist" type="string">
             <choice>
                 <element inactive_on_update="false" label="Requested" sequence="0" value="13"/>
